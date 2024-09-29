@@ -4,19 +4,19 @@ Status Report for _Last Day of Week_
 # Project Status
 
 What has your team accomplished over the past week?
-* Item 1
-* Item 2
-* Item _n_
+* created a group me to communicate what to do in the project  
+* started discussing what to do for the project 
+* gathering the members to meet up and work on the project 
 
 What does your team plan to accomplish over the next week?
-* Item 1
-* Item 2
-* Item _n_
+* get the proposal done 
+* The idea is final and mutual 
+* getting the project done asap 
 
 What, if anything, is preventing your team from making progress?
-* Item 1
-* Item 2
-* Item _n_
+* other members not responding like as soon as possible 
+* and two members of the team have not join the chat 
+* just figuring out everything 
 
 # Team Work Log
 
@@ -24,26 +24,20 @@ Each team member should list their tasks from the last week, along with time spe
 
 ## Member 1
 
-* Task 1, hours/minutes spent
-* Task 2, hours/minutes spent
-* Task _n_, hours/minutes spent
+* have not started working, only discussing and finding ideas 
 
 ## Member 2
 
-* Task 1, hours/minutes spent
-* Task 2, hours/minutes spent
-* Task _n_, hours/minutes spent
+* have not started working, only discussing and finding ideas 
 
 ## Member _n_
 
-* Task 1, hours/minutes spent
-* Task 2, hours/minutes spent
-* Task _n_, hours/minutes spent
+* have not started working, only discussing and finding ideas 
 
 # Team Meeting Attendance
 
 Which team members were present at your weekly meetings? You should have at least one scheduled, with a second scheduled as a backup in case you need one.
 
-* Meeting 1: _list the team members here_
-* Meeting 2: _list the team members here_
+* Meeting 1: chase , sophia, finnegan, marc-dave, 
+* Meeting 2: chase , sophia, finnegan, marc-dave,
 
